@@ -1,6 +1,6 @@
 from subprocess import *
 #
-#Node.js is not going to release the port it listens to, so I have to kill it with python
+# when running Node.js code from Atom, it is not going to release the port it listens to, so I have to kill it with python
 #Biao Chen 2/13/2020
 
 targetPort = "3000"
